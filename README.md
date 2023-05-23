@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a web application for making optimal DFS lineups. 
+🌱 I’m currently learning Django and the finer points of CSS. 
+
 <!--
 **zrios85/zrios85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
